@@ -1,0 +1,45 @@
+{
+  "_from": "gist:58e5dfc62489a5a288de",
+  "_inBundle": false,
+  "_location": "/hello-mars",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "gist:58e5dfc62489a5a288de",
+    "rawSpec": "gist:58e5dfc62489a5a288de",
+    "saveSpec": "gist:58e5dfc62489a5a288de",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "gist:58e5dfc62489a5a288de#4263995c96b1b80e6635f5e8f7c9f5f4f0141197",
+  "_spec": "gist:58e5dfc62489a5a288de",
+  "_where": "C:\\Users\\o.valencia\\node_modules",
+  "author": "Joe Eames",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Hello Mars!",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hello-mars",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovalencia123/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "bugs": {
+    "url": "https://github.com/Ovalencia123/hello-mars/issues"
+  },
+  "homepage": "https://github.com/Ovalencia123/hello-mars#readme"
+}
